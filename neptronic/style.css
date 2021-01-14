@@ -305,7 +305,7 @@ p {
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+	background-image: linear-gradient(60deg, maroon, black);
 	opacity: .9;
 	z-index: -1;
 }
@@ -360,7 +360,7 @@ p {
 	align-items: flex-start;
 	justify-content: center;
 	flex-direction: column;
-	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+	background-image: linear-gradient(60deg, maroon, black);
 	color: white;
 }
 #careers .career-info h1 {
@@ -388,7 +388,7 @@ p {
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+	background-image: linear-gradient(60deg, maroon, black);
 	opacity: .7;
 }
 #careers .career-img img {
@@ -492,7 +492,7 @@ p {
 
 /* Footer */
 #footer {
-	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+	background-image:linear-gradient(60deg, maroon, black);
 }
 #footer .footer {
 	min-height: 200px;
